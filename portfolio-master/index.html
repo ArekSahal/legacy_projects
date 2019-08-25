@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Encode+Sans|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>portfolio</title>
+</head>
+<body>
+<script type="text/javascript">
+
+    var myWork = [{"desc": "A Tribute Page","photo": "photos/ali.png","ref": "https://areksahal.github.io/tribute-page/"},
+        {"desc": "FlappyBird In Clojure","photo": "photos/flappy.png","ref": "https://areksahal.github.io/flappybird-clojure"},
+        {"desc": "The Game Of Life","photo": "photos/game-of-life.png","ref": "https://areksahal.github.io/game-of-life"},
+        {"desc": "My Compositions","photo": "photos/soundcloud.png","ref": "https://soundcloud.com/keeera/the-love-song"},
+        {"desc": "Calculator","photo": "photos/calculator.jpg","ref": "https://areksahal.github.io/calculator"},
+        {"desc": "Weather App","photo": "photos/weather.png","ref": "https://areksahal.github.io/weather"},];
+
+    function createWorkElement(desc, photo, link) {
+        $("#work-container").append(
+            "<a href=" + link + " target=\"_blank\">\n" +
+            "        <div class=\"col-lg-4 col-md-6 col-sm-6 col-xs-6\">\n" +
+            "            <div class=\"work-text\">\n" +
+            "                <p>" + desc + "</p>\n" +
+            "            </div>\n" +
+            "            <img src=" + photo + " class=\"img-responsive work-photo\">\n" +
+            "        </div>\n" +
+            "        </a>"
+        )
+    }
+
+
+    function addWork() {
+        for (i = 0; i < myWork.length; i++) {
+            var work = myWork[i]
+            createWorkElement(work.desc, work.photo, work.ref)
+        }
+    }
+
+    $(document).ready(function() {
+        $("#quote").addClass("animated fadeIn");
+        $(".background").addClass("animated fadeIn");
+        $("#author").addClass("animated fadeIn");
+        $(".meny-bar").addClass("animated fadeIn");
+        addWork();
+
+    });
+
+    $(window).scroll(function() {
+        });
+
+</script>
+
+<div style="margin: 0px; position: static;">
+
+<!--The meny-bar -->
+<div class="meny-bar row" >
+    <a id="about-button" class="btn btn-meny" href="#about-me">
+        About me
+    </a>
+
+    <a id="work-button" class="btn btn-meny" href="#my-work">
+        My Work
+    </a>
+    <!--Social media -->
+    <div class="row social-container" style="margin-left: 50px">
+    <a id="fb-button" href="https://www.facebook.com/keeera" target="_block">
+    <img class="fb-button img-circle" src="photos/facebook.png">
+    </a>
+    <a id="insta-button" href="https://www.instagram.com/areksahal/" target="_block">
+        <img class="fb-button img-circle" src="photos/insta.png">
+    </a>
+    <a id="mail-button" href="mailto:areksahal@gmail.com">
+        <img class="fb-button img-circle" src="photos/mail.png">
+    </a>
+    </div>
+</div>
+
+<!--Background-->
+
+<div class="background">
+    <div style="z-index: -1">
+        <img class="background-photo" src="photos/background2.jpeg">
+    </div>
+</div>
+
+<!--Main-window:  -->
+<div class="main-window">
+    <div class="top-quote-container row">
+        <div id="quote">
+            <h1 class="top-quote">
+                "I'm dope <br> and I do dope shit"
+            </h1>
+        </div>
+        <div id="author">
+            <p class="top-author">
+                - Kanye West
+            </p>
+        </div>
+    </div>
+<div id="top-page" class="page">
+
+<!--First page: small photo and about me -->
+    <div id="about-me">
+        <h2 class="headline text-center">
+            About Me
+        </h2>
+    </div>
+<div class="row" style="margin: 0% 0% 8% 0%">
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <h3 class="about-me-text">
+            An engineering physics student living in Stockholm. I mostly do front-end shit cuz hey, who the fuck wants to hang out with a server-nerd.
+            I'm in this for the money, I don't really get any enjoyment out of programming but bithces ain't paying for themselves you know.
+            <br>
+            <br>
+            I usually work in clojure so don't fucking come here and shove some java-crap up my ass ok, if it ain't immutable then it ain't worth it.
+            On my spare time I like to take long walks on the beach and drink orange juice, not necessarily in that order.
+        </h3>
+    </div>
+    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12" style="margin-left: 5%;">
+        <img class="img-responsive img-circle profile-pic" src="photos/profile.JPG" alt="Im too hot">
+    </div>
+</div>
+
+<!--Second page: show the portfolio -->
+    <div id="my-work">
+        <h2 class="headline text-center">
+            My Work
+        </h2>
+    </div>
+    <div id="work-container" class="row" style="margin: 0%;">
+    </div>
+
+<!--Third page: references -->
+
+<!--Fourth page: contact me -->
+
+
+</div>
+</div>
+</div>
+</body>
+</html>

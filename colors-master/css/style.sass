@@ -1,0 +1,96 @@
+@import variables
+@import animations
+@import mobile
+
+
+//HEADER
+
+.header
+  width: 100%
+  position: fixed
+  z-index: 1
+  transition: all 0.1s ease-out
+  overflow: hidden
+
+.wrapper
+  background-color: $background-color
+  position: absolute
+  top: -0.5%
+  left: -0.5%
+  overflow: hidden
+  width: 100%
+  height: 100%
+
+%prepper
+  overflow: hidden
+  display: inline-block
+
+#placeholder
+  overflow: hidden
+  display: inline-block
+  opacity: 0
+
+
+.header-text
+  height: 200px
+  width: 100%
+  margin-top: -100px
+  position: absolute
+  z-index: 10
+  bottom: 50%
+  left: 25%
+  font-size: 100px
+  font-family: $font
+  transition: all 0.1s ease-out
+
+.switch-container
+  @extend %prepper
+  font-weight: bold
+  color: $switch-text-color
+  transition: all 0.2s ease-out
+  //@extend %text-color
+  text-decoration: underline
+
+
+.constant-text
+  @extend %prepper
+  //color: $text-color
+  @extend %text-color
+
+.author
+  @extend %text-color
+  font:
+    family: $font
+    size: 30px
+  text-decoration: underline
+  position: absolute
+  bottom: 0
+  right: 50px
+
+.background
+  position: relative
+  width: 100vw
+  height: 100vh
+  @extend %background-animation
+
+
+
+
+//CONTENT For Another Day
+
+.tile-grid
+  display: grid
+  grid-template-columns: repeat(40, 1fr)
+  grid-template-rows: repeat(10, 1fr)
+  grid-gap: 0
+  width: 100%
+  height: 100%
+  overflow: hidden
+
+#first-tile
+  background-color: white
+
+.tile
+  height: 100%
+  width: 100%
+  background-color: black

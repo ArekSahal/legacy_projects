@@ -1,0 +1,20 @@
+@import "./HeaderBox/HeaderStyle"
+@import "./RecipeBox/RecipeStyle"
+@import "HeaderBox/Navbar/NavbarStyle"
+@import "RecipeBox/DetailsPage/DetailsStyle"
+
+$headerHeight: 6%
+
+.header
+  position: fixed
+  z-index: 2
+  top: 0
+  height: $headerHeight
+  width: 100vw
+
+.recipeContainer
+  height: (100% - $headerHeight)
+  width: 100%
+  position: absolute
+  right: 0
+  bottom: 0

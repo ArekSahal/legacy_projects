@@ -1,0 +1,93 @@
+@keyframes typing
+  from
+    width: 0%
+  to
+    width: 100%
+
+@keyframes textcursor
+  0%, 100%
+    border-color: transparent
+  50%
+    border-color: $switch-text-color
+
+@keyframes buffer
+  0%, 100%
+    opacity: 1
+  50%
+    opacity: 0
+
+@keyframes bg-color
+  0%
+    background-position: left
+  100%
+    background-position: right
+
+@keyframes color-animation
+  0%
+    color: #53d7e1
+  33%
+    color: #ee8ce6
+  66%
+    color: #ffc540
+  100%
+    color: #f5fd52
+
+@keyframes tile-flip
+  0%
+    background-color: black
+  25%
+    background-color: $yellow
+  40%
+    background-color: $orange
+  60%
+    background-color: $blue
+  80%
+    background-color: $purple
+  100%
+    background-color: black
+    transform: rotateY(180deg)
+
+
+
+//.tile-flip
+  animation:
+    name: tile-flip
+    duration: 2s
+    timing-function: ease
+  transform-style: preserve-3d
+
+
+
+%text-color
+  animation:
+    timing-function: ease-in-out
+    name: color-animation
+    duration: 20s
+    iteration-count: infinite
+    direction: alternate-reverse
+
+%background-animation
+  background-image: $bg-color
+  //background-color: black
+  background-size: 2000%
+  animation:
+    timing-function: ease-in-out
+    name: bg-color
+    duration: 20s
+    iteration-count: infinite
+    direction: alternate
+
+.buffer
+  opacity: 1
+  animation: buffer 0.85s steps(1, end) 0s infinite
+
+.blinking
+  border-right-style: solid
+  border-right-width: 5px
+  animation: textcursor 0.75s steps(1, end) infinite
+
+.typing
+  animation: typing 1s steps(20, end)
+
+.animation
+  transform: rotateX(90deg)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Runs" representedClassName="Runs" syncable="YES" codeGenerationType="class">
+        <attribute name="alldistances" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="alllocations" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="allspeeds" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="distance" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="speed" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Runs" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>

@@ -1,0 +1,157 @@
+body {
+    background-color: black;
+}
+.meny-bar {
+    top: 10px;
+    left: 80%;
+    position: fixed;
+    z-index: 2;
+    -webkit-animation-duration: 7s;
+    -webkit-animation-delay: 3s;
+    -webkit-animation-iteration-count: 1;
+
+}
+
+.btn-meny {
+    height: 40px;
+    background-color: rgba(255,184,76,0.47);
+    color: rgba(17, 19, 13, 0.6);
+    margin-left: -1.2%;
+    font-size: 110%;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 8px;
+}
+
+.fb-button {
+    width: 40px;
+    background-color: rgba(17, 19, 13, 0.3)
+
+}
+
+.social-container {
+    position: fixed;
+    top: 0%;
+    right: 20px;
+    width: 40px;
+}
+
+.main-window {
+    background-color: transparent;
+    margin: 0% 3% 3% 3%;
+    position: absolute;
+    z-index: 1;
+    color: #eefaff;
+}
+
+.background {
+    z-index: 0;
+    position: fixed;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.background-photo {
+    border-style: solid;
+    border-color: white;
+    width: 100%;
+    height: 100vh;
+}
+
+.top-quote-container {
+    height: 100%;
+    margin: 30% 40% 15% 1%;
+    padding: 0px;
+    font-family: 'Encode Sans', sans-serif;
+}
+
+.top-quote {
+    font-size: 550%;
+}
+
+.top-author {
+    font-size: 300%;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+#quote {
+    -webkit-animation-duration: 7s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-iteration-count: 1;
+}
+
+#author {
+    -webkit-animation-duration: 5s;
+    -webkit-animation-delay: 3s;
+    -webkit-animation-iteration-count: 1;
+}
+
+.profile-pic {
+    width: 500px;
+    height: auto;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    border-radius: 100%;
+}
+
+.about-me-text {
+    font-size: 200%;
+
+}
+
+.page {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(17, 19, 13, 0.5);
+    border-style: solid;
+    border-color: rgba(66, 65, 77, 0.2);
+    border-radius: 10px;
+
+}
+
+.headline {
+    font-size: 400%;
+    color: #ebb512;
+    opacity: 0.8;
+}
+
+.work-photo {
+    border-radius: 5%;
+    padding: 1%;
+    height: auto;
+    position: relative;
+    z-index: 1;
+}
+
+.work-text {
+    position: absolute;
+    top: 79%;
+    color: black;
+    z-index: 2;
+    font-size: 250%;
+    margin-left: 1%;
+    padding-left: 3%;
+    padding-top: 5%;
+    background-color: rgba(100,115,120,0.45);
+    border-radius: 15px;
+    width: 91%;
+    height: 20%;
+}
+
+.work-photo:hover {
+    opacity: 0.8;
+}
+
+.fb-button:hover {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(32, 31, 39, 0.81);
+
+}
+
+@media screen and (max-width: 764px) {
+    .work-text {
+        font-size: 100%;
+    }
+}

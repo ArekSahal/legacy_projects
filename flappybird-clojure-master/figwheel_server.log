@@ -1,0 +1,2225 @@
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.594 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.446 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.929 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/engine.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.546 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.421 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:26  column:6  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m24[0m  [36m;; your application[0m
+  [36m25[0m  [36m;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m26[0m  [1m)][0m
+  [0m  [0m  [33m  ^--- Unmatched delimiter ][0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.683 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:26  column:6  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m24[0m  [36m;; your application[0m
+  [36m25[0m  [36m;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m26[0m  [1m)][0m
+  [0m  [0m  [33m  ^--- Unmatched delimiter ][0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.348 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:26  column:6  ----[0m
+
+  [1mUnmatched delimiter ][0m
+
+  [36m24[0m  [36m;; your application[0m
+  [36m25[0m  [36m;; (swap! app-state update-in [:__figwheel_counter] inc)[0m
+  [33m26[0m  [1m)][0m
+  [0m  [0m  [33m  ^--- Unmatched delimiter ][0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.653 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.48 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.466 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.465 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.494 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.37 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.363 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.41 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.349 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.342 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.448 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.764 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.416 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.378 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.374 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.468 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.323 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.314 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.384 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.226 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:21  column:14  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m19[0m  [36m(let [state @app-state][0m
+  [36m20[0m  [36m  [:center[0m
+  [33m21[0m  [1m     [:h1])[0m
+  [0m  [0m  [33m           ^--- Unmatched delimiter )[0m
+  [36m22[0m  [36m     [:svg[0m
+  [36m23[0m  [36m      {:view-box "0 0 50 50"[0m
+  [36m24[0m  [36m       :height 500[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.407 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.46 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.376 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.268 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:14  column:9  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m13[0m  [36m(defn physics [state][0m
+  [33m14[0m  [1m  {:pos}[0m
+  [0m  [0m  [33m        ^--- Map literal must contain an even number of forms[0m
+  [36m15[0m  [36m  )[0m
+  [36m16[0m  [36m[0m
+  [36m17[0m  [36m(defn updater [][0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:14  column:3  ----[0m
+
+  [1mWrong number of args (2) passed to cljs.core/update-in[0m
+
+  [36m11[0m  [36m(defonce app-state (atom {:pos [25 25] :vel {:x 0 :y 0} :acc {:x 0 :y 0}}))[0m
+  [36m12[0m  [36m[0m
+  [36m13[0m  [36m(defn change-pos [state][0m
+  [33m14[0m  [1m  (update-in state [:pos :x] )[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (2) passed to cljs.core/update-in[0m
+  [36m15[0m  [36m  )[0m
+  [36m16[0m  [36m[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m[0m
+  [36m19[0m  [36m(defn physics [state][0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.491 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.337 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.334 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.314 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:26  column:1  ----[0m
+
+  [1mWrong number of args (0) passed to flappybird.core/change-pos[0m
+
+  [36m22[0m  [36m(defn updater [][0m
+  [36m23[0m  [36m  (js/setInterval #(swap! app-state physics))[0m
+  [36m24[0m  [36m  )[0m
+  [36m25[0m  [36m[0m
+  [33m26[0m  [1m(change-pos)[0m
+  [0m  [0m  [33m^--- Wrong number of args (0) passed to flappybird.core/change-pos[0m
+  [36m27[0m  [36m[0m
+  [36m28[0m  [36m(swap! app-state assoc :vel [1 1])[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defn hello-world [][0m
+  [36m31[0m  [36m  (let [state @app-state][0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.369 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.337 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.319 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.356 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.349 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.339 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.487 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.452 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.429 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.477 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.309 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:23  column:51  ----[0m
+
+  [1mNested #()s are not allowed[0m
+
+  [36m22[0m  [36m(defn updater [][0m
+  [33m23[0m  [1m  (js/setInterval #(swap! app-state update :pos #(mapv + % ([1 1]))) 1000)[0m
+  [0m  [0m  [33m                                                  ^--- Nested #()s are not allowed[0m
+  [36m24[0m  [36m  )[0m
+  [36m25[0m  [36m[0m
+  [36m26[0m  [36m(defn hello-world [][0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.269 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:22  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 22 and column 1[0m
+
+  [36m20[0m  [36m  )[0m
+  [36m21[0m  [36m[0m
+  [33m22[0m  [1m(defn updater [][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 22 and column 1[0m
+  [36m23[0m  [36m  (js/setInterval #(swap! app-state update :pos  1000)[0m
+  [36m24[0m  [36m  )[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.431 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.377 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.359 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.356 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.342 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.625 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.57 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:14  column:3  ----[0m
+
+  [1mWrong number of args (2) passed to cljs.core/update-in[0m
+
+  [36m11[0m  [36m(defonce app-state (atom {:pos {:x 25 :y 25} :vel {:x 0 :y 0} :acc {:x 0 :y 0}}))[0m
+  [36m12[0m  [36m[0m
+  [36m13[0m  [36m(defn change-pos [state][0m
+  [33m14[0m  [1m  (update-in state [:pos :x] )[0m
+  [0m  [0m  [33m  ^--- Wrong number of args (2) passed to cljs.core/update-in[0m
+  [36m15[0m  [36m  )[0m
+  [36m16[0m  [36m[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m[0m
+  [36m19[0m  [36m(defn physics [state][0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.53 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.468 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.405 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.049 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.802 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.781 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.357 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.84 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.524 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.566 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:18  column:3  ----[0m
+
+  [1mUnsupported binding form: (change-y %)[0m
+
+  [36m17[0m  [36m(defn physics [state][0m
+  [33m18[0m  [1m  (as-> %[0m
+  [0m  [0m  [33m  ^--- Unsupported binding form: (change-y %)[0m
+  [36m19[0m  [36m        (change-y %))[0m
+  [36m20[0m  [36m  )[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.492 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:18  column:3  ----[0m
+
+  [1mUnsupported binding form: (change-y %)[0m
+
+  [36m17[0m  [36m(defn physics [state][0m
+  [33m18[0m  [1m  (as-> %[0m
+  [0m  [0m  [33m  ^--- Unsupported binding form: (change-y %)[0m
+  [36m19[0m  [36m        (change-y %))[0m
+  [36m20[0m  [36m  )[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.364 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.365 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.527 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.474 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.451 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.47 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.553 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.305 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.401 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.546 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.473 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.386 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:22  column:3  ----[0m
+
+  [1mchange-vel at line 17 is being replaced[0m
+
+  [36m18[0m  [36m  (update-in state [:vel :y] - (get-in state [:acc :y]))[0m
+  [36m19[0m  [36m  )[0m
+  [36m20[0m  [36m[0m
+  [36m21[0m  [36m(defn gravity [state][0m
+  [33m22[0m  [1m  (defn change-vel [state][0m
+  [0m  [0m  [33m  ^--- change-vel at line 17 is being replaced[0m
+  [36m23[0m  [36m    (update-in state [:vel :y] + 1)    )[0m
+  [36m24[0m  [36m    )[0m
+  [36m25[0m  [36m(defn hit-ground? [state][0m
+  [36m26[0m  [36m  (if (< (get-in state [:pos :y]) 0) (assoc-in state [:pos :y] 0) state)[0m
+  [36m27[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.568 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:22  column:3  ----[0m
+
+  [1mchange-vel at line 17 is being replaced[0m
+
+  [36m18[0m  [36m  (update-in state [:vel :y] - (get-in state [:acc :y]))[0m
+  [36m19[0m  [36m  )[0m
+  [36m20[0m  [36m[0m
+  [36m21[0m  [36m(defn gravity [state][0m
+  [33m22[0m  [1m  (defn change-vel [state][0m
+  [0m  [0m  [33m  ^--- change-vel at line 17 is being replaced[0m
+  [36m23[0m  [36m    (update-in state [:vel :y] + 1)    )[0m
+  [36m24[0m  [36m    )[0m
+  [36m25[0m  [36m(defn hit-ground? [state][0m
+  [36m26[0m  [36m  (if (< (get-in state [:pos :y]) 0) (assoc-in state [:pos :y] 0) state)[0m
+  [36m27[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.909 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.412 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:37  column:2  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/updater[0m
+
+  [36m33[0m  [36m      (change-y )[0m
+  [36m34[0m  [36m      (hit-ground? ))[0m
+  [36m35[0m  [36m  )[0m
+  [36m36[0m  [36m[0m
+  [33m37[0m  [1m(updater)[0m
+  [0m  [0m  [33m ^--- Use of undeclared Var flappybird.core/updater[0m
+  [36m38[0m  [36m[0m
+  [36m39[0m  [36m(defn updater [][0m
+  [36m40[0m  [36m  (let [state @app-state] (js/setInterval (swap! app-state physics) 100))[0m
+  [36m41[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.615 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.372 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.91 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.532 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.496 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.39 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.605 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.413 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.367 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.475 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.389 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.376 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.446 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.38 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.363 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.576 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.394 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.585 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.404 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.391 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.635 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.487 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.416 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.498 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.606 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.392 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.381 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.377 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.401 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.377 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.386 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.606 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.356 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.38 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.388 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.391 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.385 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.37 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.92 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.455 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.356 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.368 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.384 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.413 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.377 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.378 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.498 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.52 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.328 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.397 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.464 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.537 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.457 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.526 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.272 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:22  column:3  ----[0m
+
+  [1mToo few arguments to if at line 22 src/flappybird/core.cljs[0m
+
+  [36m21[0m  [36m(defn air-resistance [state][0m
+  [33m22[0m  [1m  (if (> (get-in state [:vel :y]) 1))[0m
+  [0m  [0m  [33m  ^--- Too few arguments to if at line 22 src/flappybird/core.cljs[0m
+  [36m23[0m  [36m  )[0m
+  [36m24[0m  [36m[0m
+  [36m25[0m  [36m(defn reset-acc [state][0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.404 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.408 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.382 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.491 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.374 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.343 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.355 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.403 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.42 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.631 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.389 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.492 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.498 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.609 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:89  column:31  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/get[0m
+
+  [36m85[0m  [36m               :height (:height (get (:pipes state) i))[0m
+  [36m86[0m  [36m               :width 4[0m
+  [36m87[0m  [36m               :fill "red"[0m
+  [36m88[0m  [36m               :x (:x (get (:pipes state) i))[0m
+  [33m89[0m  [1m               :y (/ (:height (get (:pipes state))) 2)[0m
+  [0m  [0m  [33m                              ^--- Wrong number of args (1) passed to cljs.core/get[0m
+  [36m90[0m  [36m               }[0m
+  [36m91[0m  [36m[0m
+  [36m92[0m  [36m        ]))])[0m
+  [36m93[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:89  column:31  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/get[0m
+
+  [36m85[0m  [36m               :height (:height (get (:pipes state) i))[0m
+  [36m86[0m  [36m               :width 4[0m
+  [36m87[0m  [36m               :fill "red"[0m
+  [36m88[0m  [36m               :x (:x (get (:pipes state) i))[0m
+  [33m89[0m  [1m               :y (/ (:height (get (:pipes state))) 2)[0m
+  [0m  [0m  [33m                              ^--- Wrong number of args (1) passed to cljs.core/get[0m
+  [36m90[0m  [36m               }[0m
+  [36m91[0m  [36m[0m
+  [36m92[0m  [36m        ]))])[0m
+  [36m93[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.602 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.408 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.468 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:50  column:66  ----[0m
+
+  [1mWrong number of args (0) passed to cljs.core/assoc[0m
+
+  [36m46[0m  [36m  (assoc state [:pipes] (conj (:pipes state) {:height (rand-nth (range 10 30)) :pos {:x 60 :y 60}}))[0m
+  [36m47[0m  [36m  )[0m
+  [36m48[0m  [36m[0m
+  [36m49[0m  [36m(defn handle-pipes [state][0m
+  [33m50[0m  [1m  (loop [index 0 s state] (if (< (:x (get (:pipes s) index)) -2) (assoc)))[0m
+  [0m  [0m  [33m                                                                 ^--- Wrong number of args (0) passed to cljs.core/assoc[0m
+  [36m51[0m  [36m  )[0m
+  [36m52[0m  [36m[0m
+  [36m53[0m  [36m(defn physics [state][0m
+  [36m54[0m  [36m  (-> state[0m
+  [36m55[0m  [36m      (gravity)[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.651 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.652 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.436 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.332 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:49  column:1  ----[0m
+
+  [1mEOF while reading, starting at line 49 and column 1[0m
+
+  [36m47[0m  [36m  )[0m
+  [36m48[0m  [36m[0m
+  [33m49[0m  [1m(defn handle-pipes [state][0m
+  [0m  [0m  [33m^--- EOF while reading, starting at line 49 and column 1[0m
+  [36m50[0m  [36m  (if (some #(if (< (:x %) -1) false true) (:pipes state)) (assoc state :pipes (create-pipe (filter #(if (< (:x %) -1) false true) (:pipes state)))[0m
+  [36m51[0m  [36m  )          )[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.454 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:53  column:24  ----[0m
+
+  [1mWrong number of args (1) passed to cljs.core/mapv[0m
+
+  [36m49[0m  [36m(defn handle-pipes [state][0m
+  [36m50[0m  [36m  (if (some #(if (< (:x %) -1) false true) (:pipes state)) (assoc state :pipes (create-pipe (filter #(if (< (:x %) -1) false true) (:pipes state)))) state))[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn move-pipes [state][0m
+  [33m53[0m  [1m  (update state :pipes (mapv (update :x - 0.5) ))[0m
+  [0m  [0m  [33m                       ^--- Wrong number of args (1) passed to cljs.core/mapv[0m
+  [36m54[0m  [36m  )[0m
+  [36m55[0m  [36m[0m
+  [36m56[0m  [36m[0m
+  [36m57[0m  [36m(defn physics [state][0m
+  [36m58[0m  [36m  (-> state[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.809 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.595 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.476 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.573 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.503 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.739 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.502 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:50  column:109  ----[0m
+
+  [1mToo few arguments to if at line 50 src/flappybird/core.cljs[0m
+
+  [36m49[0m  [36m(defn handle-pipes [state][0m
+  [33m50[0m  [1m  (if (some #(if (< (get-in % [:pos :x]) -1) false true) (:pipes state)) (assoc state :pipes (conj (filter #(if (< (get) -1))) (create-pipe))) state))[0m
+  [0m  [0m  [33m                                                                                                            ^--- Too few arguments to if at line 50 src/flappybird/core.cljs[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn move-pipes [state][0m
+  [36m53[0m  [36m  (assoc state :pipes (loop [i 0 s []][0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.41 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:50  column:109  ----[0m
+
+  [1mToo few arguments to if at line 50 src/flappybird/core.cljs[0m
+
+  [36m49[0m  [36m(defn handle-pipes [state][0m
+  [33m50[0m  [1m  (if (some #(if (< (get-in % [:pos :x]) -1) false true) (:pipes state)) (assoc state :pipes (conj (filter #(if (< (get) -1))) (create-pipe))) state))[0m
+  [0m  [0m  [33m                                                                                                            ^--- Too few arguments to if at line 50 src/flappybird/core.cljs[0m
+  [36m51[0m  [36m[0m
+  [36m52[0m  [36m(defn move-pipes [state][0m
+  [36m53[0m  [36m  (assoc state :pipes (loop [i 0 s []][0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.521 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.452 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.858 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.517 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.434 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.6 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.539 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.623 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.453 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.758 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.637 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.648 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.501 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.611 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.573 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.587 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.58 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.537 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.538 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.696 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.601 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.449 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.674 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.676 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.583 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.631 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.695 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.833 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:90  column:8  ----[0m
+
+  [1mWrong number of args (3) passed to: core/for[0m
+
+  [36m88[0m  [36m           :cy (get-in state [:bird :pos :y])[0m
+  [36m89[0m  [36m           }]][0m
+  [33m90[0m  [1m(for [i (range 2)][0m
+  [0m  [0m  [33m^--- Wrong number of args (3) passed to: core/for[0m
+  [36m91[0m  [36m[:rect {[0m
+  [36m92[0m  [36m        :height (get (get (:pipes state) i) 0)[0m
+  [36m93[0m  [36m        :width 4[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.543 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.87 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.378 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:90  column:8  ----[0m
+
+  [1mWrong number of args (3) passed to: core/for[0m
+
+  [36m88[0m  [36m           :cy (get-in state [:bird :pos :y])[0m
+  [36m89[0m  [36m           }]][0m
+  [33m90[0m  [1m(for [i (range 2)][0m
+  [0m  [0m  [33m^--- Wrong number of args (3) passed to: core/for[0m
+  [36m91[0m  [36m  [:rect {[0m
+  [36m92[0m  [36m        :height (get (get (:pipes state) i) 0)[0m
+  [36m93[0m  [36m        :width 4[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:108  column:50  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/i[0m
+
+  [36m106[0m  [36m  ))[0m
+  [36m107[0m  [36m[:rect {[0m
+  [33m108[0m  [1m        :height (- (get (get (:pipes state) i) 0) 10)[0m
+  [0m   [0m  [33m                                            ^--- Use of undeclared Var flappybird.core/i[0m
+  [36m109[0m  [36m        :width 4[0m
+  [36m110[0m  [36m        :fill "red"[0m
+  [36m111[0m  [36m        :x (get (get (:pipes state) i) 1)[0m
+  [36m112[0m  [36m        :y (/ (get (get (:pipes state) i) 0) 1)[0m
+  [36m113[0m  [36m        }]   )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:111  column:42  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/i[0m
+
+  [36m107[0m  [36m[:rect {[0m
+  [36m108[0m  [36m        :height (- (get (get (:pipes state) i) 0) 10)[0m
+  [36m109[0m  [36m        :width 4[0m
+  [36m110[0m  [36m        :fill "red"[0m
+  [33m111[0m  [1m        :x (get (get (:pipes state) i) 1)[0m
+  [0m   [0m  [33m                                    ^--- Use of undeclared Var flappybird.core/i[0m
+  [36m112[0m  [36m        :y (/ (get (get (:pipes state) i) 0) 1)[0m
+  [36m113[0m  [36m        }]   )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:112  column:45  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/i[0m
+
+  [36m108[0m  [36m             :height (- (get (get (:pipes state) i) 0) 10)[0m
+  [36m109[0m  [36m             :width 4[0m
+  [36m110[0m  [36m             :fill "red"[0m
+  [36m111[0m  [36m             :x (get (get (:pipes state) i) 1)[0m
+  [33m112[0m  [1m             :y (/ (get (get (:pipes state) i) 0) 1)[0m
+  [0m   [0m  [33m                                            ^--- Use of undeclared Var flappybird.core/i[0m
+  [36m113[0m  [36m             }]   )[0m
+  [36m114[0m  [36m[0m
+  [36m115[0m  [36m[0m
+  [36m116[0m  [36m[0m
+  [36m117[0m  [36m     ])[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.766 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.639 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.648 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.645 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.562 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.582 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.566 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.437 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.617 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.556 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.546 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.708 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.761 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.73 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.568 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.565 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.569 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.483 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.709 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.706 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.526 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.873 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.494 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.663 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.64 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.635 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:12  column:47  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/constants[0m
+
+  [36m 9[0m  [36m;; define your app data so that it doesn't get over-written on reload[0m
+  [36m10[0m  [36m[0m
+  [36m11[0m  [36m(defonce app-state (atom {:bird[0m
+  [33m12[0m  [1m                            {:pos {:x (:birdx constants) :y 25} :vel {:x 0 :y 0} :acc {:x 0 :y 0}}[0m
+  [0m  [0m  [33m                                              ^--- Use of undeclared Var flappybird.core/constants[0m
+  [36m13[0m  [36m                          :pipes[0m
+  [36m14[0m  [36m                              [[(rand-nth (range 10 30)) 50][0m
+  [36m15[0m  [36m                               [(rand-nth (range 10 30)) 30][0m
+  [36m16[0m  [36m                               [(rand-nth (range 10 30)) 10]]}))[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.833 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.641 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.584 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.681 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.759 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.682 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.582 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.637 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.799 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.765 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.459 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.532 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.651 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.527 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.772 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.486 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.713 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.722 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.712 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.677 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.609 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.287 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:11  column:1  ----[0m
+
+  [1mWrong number of args (5) passed to: analyzer/eval1724/fn--1725/pfn--1726[0m
+
+  [36m 9[0m  [36m;; define your app data so that it doesn't get over-written on reload[0m
+  [36m10[0m  [36m[0m
+  [33m11[0m  [1m(def constants {:birdspeed -2 :gravity 0.02 :pipes 0.35 :air-resistance {:upplimit -0.55 :downlimit 0.5} :birdx 13 :refreshtime 15} :ground 48)[0m
+  [0m  [0m  [33m^--- Wrong number of args (5) passed to: analyzer/eval1724/fn--1725/pfn--1726[0m
+  [36m12[0m  [36m[0m
+  [36m13[0m  [36m(defonce app-state (atom {:bird[0m
+  [36m14[0m  [36m                            {:pos {:x (:birdx constants) :y 25} :vel {:x 0 :y 0} :acc {:x 0 :y 0}}[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.652 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.789 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.585 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.76 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.502 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.695 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.671 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.706 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.823 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.633 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.653 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.652 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.665 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.571 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.588 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.324 seconds.[0m
+[36m----  Could not Analyze  src/flappybird/core.cljs   line:53  column:3  ----[0m
+
+  [1mToo few arguments to if at line 53 src/flappybird/core.cljs[0m
+
+  [36m52[0m  [36m(defn check-if-hit [state][0m
+  [33m53[0m  [1m  (if (or (< (-))))[0m
+  [0m  [0m  [33m  ^--- Too few arguments to if at line 53 src/flappybird/core.cljs[0m
+  [36m54[0m  [36m  )[0m
+
+[36m----  Analysis Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.294 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.699 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.629 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.694 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.728 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.505 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.597 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.429 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.118 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:62  column:8  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/check-if-hit[0m
+
+  [36m58[0m  [36m      (change-altitude)[0m
+  [36m59[0m  [36m      (hit-ground? )[0m
+  [36m60[0m  [36m      (move-pipes )[0m
+  [36m61[0m  [36m      (reset-acceleration)[0m
+  [33m62[0m  [1m      (check-if-hit ))[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var flappybird.core/check-if-hit[0m
+  [36m63[0m  [36m  )[0m
+  [36m64[0m  [36m[0m
+  [36m65[0m  [36m(defn game-loop [][0m
+  [36m66[0m  [36m  (js/setInterval #(do (swap! app-state physics)) (:refreshtime constants))[0m
+  [36m67[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.259 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.463 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.76 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.677 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.869 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.832 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.985 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.868 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.092 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.744 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.201 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:70  column:8  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/something[0m
+
+  [36m66[0m  [36m      (change-altitude)[0m
+  [36m67[0m  [36m      (hit-ground? )[0m
+  [36m68[0m  [36m      (move-pipes )[0m
+  [36m69[0m  [36m      (reset-acceleration)[0m
+  [33m70[0m  [1m      (something ))[0m
+  [0m  [0m  [33m       ^--- Use of undeclared Var flappybird.core/something[0m
+  [36m71[0m  [36m  )[0m
+  [36m72[0m  [36m[0m
+  [36m73[0m  [36m(defn game-loop [][0m
+  [36m74[0m  [36m  (js/setInterval #(do (swap! app-state physics)) (:refreshtime constants))[0m
+  [36m75[0m  [36m  )[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.892 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.683 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.568 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.627 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.583 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.572 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.632 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.593 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.567 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.66 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.845 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.192 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.081 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.496 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.475 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.516 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.488 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.481 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.583 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.727 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.66 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.604 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.804 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.913 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.657 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.151 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.736 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.7 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.756 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.637 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.638 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.652 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.622 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.684 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.619 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.606 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.475 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.816 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.589 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.688 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.62 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.352 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:83  column:4  ----[0m
+
+  [1mUnmatched delimiter )[0m
+
+  [36m81[0m  [36m(defn game-loop [][0m
+  [36m82[0m  [36m  (js/setInterval #(if (:game-started @app-state) (swap! app-state physics)) (:refreshtime constants) nil))[0m
+  [33m83[0m  [1m  )[0m
+  [0m  [0m  [33m   ^--- Unmatched delimiter )[0m
+  [36m84[0m  [36m[0m
+  [36m85[0m  [36m(defn start-game [][0m
+  [36m86[0m  [36m  (do (swap! app-state assoc :game-started true) (game-loop ))[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.678 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.529 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.44 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.498 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.682 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.71 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.989 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.531 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.626 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.19 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.839 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.346 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.043 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.367 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.705 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.477 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.474 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.433 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.871 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.799 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.492 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.954 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.905 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:131  column:29  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/reset-game[0m
+
+  [36m127[0m  [36m        :width 3[0m
+  [36m128[0m  [36m        :fill "orange"[0m
+  [36m129[0m  [36m        :x 43[0m
+  [36m130[0m  [36m        :y 43[0m
+  [33m131[0m  [1m        :on-click #(reset-game)[0m
+  [0m   [0m  [33m                    ^--- Use of undeclared Var flappybird.core/reset-game[0m
+  [36m132[0m  [36m        }][0m
+  [36m133[0m  [36m[:rect {[0m
+  [36m134[0m  [36m        :height 5[0m
+  [36m135[0m  [36m        :width 5[0m
+  [36m136[0m  [36m        :fill "black"[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.848 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.466 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.612 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.489 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.829 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.605 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.487 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.63 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.491 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.467 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.476 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.677 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.462 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.425 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.465 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.465 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.451 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.469 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.475 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.486 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.426 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.651 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.506 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.533 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.538 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.694 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.806 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.468 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.442 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.462 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.434 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.455 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.453 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.46 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.479 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.459 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.448 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.457 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.481 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.432 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.453 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.482 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.506 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.574 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.533 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.544 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.59 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.628 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.704 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.878 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.575 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.551 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.816 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.601 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.653 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.678 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.874 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 4.32 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 3.351 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 3.482 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 2.181 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.574 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.005 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.637 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.592 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.469 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.43 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.463 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.48 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.496 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.446 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.485 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.44 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.525 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.483 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.552 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.51 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.528 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.491 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.523 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.578 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.711 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.679 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.077 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.523 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.609 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.641 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.509 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.476 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.476 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.527 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.785 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.646 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/flappybird/core.cljs   line:138  column:10  ----[0m
+
+  [1mUse of undeclared Var flappybird.core/round[0m
+
+  [36m134[0m  [36m(defn hello-world [][0m
+  [36m135[0m  [36m  (let [state @app-state][0m
+  [36m136[0m  [36m    [:center[0m
+  [36m137[0m  [36m       [:h1[0m
+  [33m138[0m  [1m        (round (/ (:points state) 6))][0m
+  [0m   [0m  [33m         ^--- Use of undeclared Var flappybird.core/round[0m
+  [36m139[0m  [36m     (into (into[0m
+  [36m140[0m  [36m       [:svg[0m
+  [36m141[0m  [36m        {:view-box "0 0 60 100"[0m
+  [36m142[0m  [36m         :height 600[0m
+  [36m143[0m  [36m         :width 300[0m
+
+[36m----  Compiler Warning : Please see src/flappybird/core.cljs  ----[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.563 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.626 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.658 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.656 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.518 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.502 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.537 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.518 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.522 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.527 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.478 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.625 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.898 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.596 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.607 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.3 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.536 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.482 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.822 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.619 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.627 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.736 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.592 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:210  column:1  ----[0m
+
+  [1mEOF while reading string[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.643 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.526 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.613 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.683 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.569 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.684 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.59 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.619 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.728 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 1.002 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.532 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.694 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.571 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.484 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/flappybird.js" in 0.366 seconds.[0m
+[36m----  Could not Read  src/flappybird/core.cljs   line:158  column:19  ----[0m
+
+  [1mMap literal must contain an even number of forms[0m
+
+  [36m156[0m  [36m         :fill "black"[0m
+  [36m157[0m  [36m  :t[0m
+  [33m158[0m  [1m         }][0m
+  [0m   [0m  [33m          ^--- Map literal must contain an even number of forms[0m
+  [36m159[0m  [36m[:rect {[0m
+  [36m160[0m  [36m        :height 5[0m
+  [36m161[0m  [36m        :width 5[0m
+
+[36m----  Reader Error : Please see src/flappybird/core.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.606 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.443 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.653 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.607 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.542 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.572 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.518 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.665 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.462 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.635 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.494 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.47 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.467 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.443 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.505 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.447 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.47 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.463 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.449 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.436 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.585 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.537 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.453 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.564 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.494 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.783 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.598 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.591 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.515 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.513 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.47 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.778 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.592 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.574 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.565 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.588 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.572 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.439 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.458 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.486 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.447 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.514 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.473 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.442 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.45 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.457 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js
+[0mCompiling "resources/public/js/compiled/flappybird.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/flappybird.js" in 0.492 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/flappybird/core.js

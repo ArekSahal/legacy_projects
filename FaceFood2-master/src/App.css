@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.FoodCard {
+  position: relative;
+  background-size: cover !important;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 24vw;
+  height: 24vw;
+  display: inline-block;
+  transition: 0.5s;
+}
+.FoodCard h1 {
+  position: absolute;
+  bottom: 0px;
+  margin: 0;
+  color: transparent;
+}
+.FoodCard:hover {
+  background-color: rgba(255, 108, 103, 0.15);
+}
+.FoodCard:hover h1 {
+  color: black;
+}
+
+.FoodWindow {
+  position: fixed;
+  top: 5px;
+  left: 10vw;
+  right: 10vw;
+  z-index: 5;
+  width: 80vw;
+  height: 100vh;
+  margin: auto;
+  background-color: floralwhite;
+  border-radius: 50px;
+  overflow: scroll;
+}
+.FoodWindow .FoodWindowHeader {
+  position: relative;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  overflow: hidden;
+  top: 0px;
+  left: 0px;
+  width: inherit;
+  height: 30vw;
+}
+.FoodWindow .FoodWindowHeader h1 {
+  position: absolute;
+  font-size: 80px;
+  margin: 0;
+  margin-left: -50px;
+  bottom: -20px;
+  left: 0px;
+  background-color: black;
+  color: white;
+  text-align: left;
+  border-radius: 20px;
+  padding: 0 50px 20px 50px;
+}
+.FoodWindow .FoodWindowDesc {
+  position: relative;
+  top: 32vw;
+  margin: 0;
+  padding: 0;
+}
+.FoodWindow .FoodWindowDesc .ingredients {
+  max-width: 20vw;
+}
+.FoodWindow .FoodWindowDesc .ingredients .desc, .FoodWindow .FoodWindowDesc .ingredients .unit {
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding-right: 20px;
+  padding-left: 0;
+}
+.FoodWindow .FoodWindowDesc ol {
+  text-align: left;
+  position: absolute;
+  top: 50px;
+  left: 30vw;
+  width: 30vw;
+}
+.FoodWindow .FoodWindowDesc ol li {
+  margin-bottom: 10px;
+}
+.FoodWindow .FoodWindowDesc p {
+  position: absolute;
+  top: 5px;
+  left: 20vw;
+  width: 60vw;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+}
+
+@media screen and (max-width: 376px) {
+  .FoodCard {
+    width: 100vw;
+    height: 60vh;
+  }
+
+  .FoodWindow {
+    width: 100vw;
+    left: 0;
+  }
+  .FoodWindow .FoodWindowHeader {
+    height: 50vh;
+  }
+}
+
+/*# sourceMappingURL=App.css.map */

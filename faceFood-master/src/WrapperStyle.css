@@ -1,0 +1,103 @@
+.header {
+  padding: 0;
+  background-color: #61c7ff;
+  margin-left: -10px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px; }
+  .header h1 {
+    font-size: 50px;
+    display: inline-block;
+    position: absolute;
+    left: 30px;
+    bottom: 0;
+    margin: 0; }
+  .header .navBar {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    bottom: 0; }
+    .header .navBar ul {
+      margin: 0; }
+      .header .navBar ul li {
+        font-size: 45px;
+        margin-right: 50px;
+        margin-bottom: 0;
+        display: inline-block; }
+
+.thumbnailContainer {
+  background-color: black;
+  position: relative;
+  width: 402px;
+  height: 402px;
+  margin: auto;
+  transition: all 0.2s ease-in-out;
+  overflow: hidden; }
+  .thumbnailContainer img {
+    width: 100%;
+    height: 100%;
+    transition: all 0.2s ease-in-out; }
+  .thumbnailContainer p {
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    width: 250px;
+    background-color: rgba(0, 0, 0, 0.42);
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+    left: -350px;
+    transition: all 0.2s ease-in-out; }
+  .thumbnailContainer:hover img {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+    opacity: 0.7; }
+  .thumbnailContainer:hover p {
+    transform: translateX(350px);
+    transition: all 0.2s ease-in-out; }
+
+.recipeGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: 100%;
+  width: 100%; }
+
+.navBar {
+  text-align: left; }
+  .navBar ul {
+    padding-left: 0; }
+    .navBar ul li {
+      font-size: 70px;
+      margin-bottom: 50px;
+      margin-left: 0;
+      list-style: none; }
+
+.detailsPage .imgContainer {
+  width: 50%; }
+  .detailsPage .imgContainer img {
+    width: 100%; }
+.detailsPage .ingredientsContainer {
+  position: fixed;
+  text-align: left;
+  top: 10%;
+  right: 0;
+  width: 30%; }
+.detailsPage .instructionsContainer {
+  width: 60%;
+  font-size: 30px; }
+
+.header {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  height: 6%;
+  width: 100vw; }
+
+.recipeContainer {
+  height: 94%;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0; }
+
+/*# sourceMappingURL=WrapperStyle.css.map */

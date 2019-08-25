@@ -1,0 +1,14 @@
+
+
+
+The basic idea is to create a class
+
+    Electric_field():
+
+    """Takes in either an electric field, potential or charge_distribution. also the plane domain of the plane"""
+
+    given one of those it wil calculate the rest and show them in a plot
+
+    all of them will be stored in matricies
+
+    E  will be two matricies Ex and Ey
